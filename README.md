@@ -1,4 +1,4 @@
-# Flask Shop
+# DimaShop
 
 ## Для запуска:
 
@@ -77,3 +77,8 @@ flask run
     - Сортировки:
         1. по цене,
         2. по средней оценке.
+
+
+Admin:
+  Login: dmitryAdmin
+  Password: DmitryAdmin1884.
